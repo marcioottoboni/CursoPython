@@ -22,6 +22,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Logica Basica\Comando_print.py" />
     <Compile Include="Logica Basica\Declaracao_de_variaveis.py" />
   </ItemGroup>
   <ItemGroup>

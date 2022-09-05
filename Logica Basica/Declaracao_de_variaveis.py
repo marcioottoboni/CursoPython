@@ -1,2 +1,5 @@
 #Como declarar uma variavel.
-print("Vai Curintia")
+
+sTime = "Curintia"
+
+print(f'O melhor time do mundo e: {sTime}')
