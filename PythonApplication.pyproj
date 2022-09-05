@@ -5,7 +5,7 @@
     <ProjectGuid>55ed9a4f-1b98-4053-9070-bc6ea0d4737f</ProjectGuid>
     <ProjectHome>
     </ProjectHome>
-    <StartupFile>CursoPython\Declaracao_de_variaveis.py</StartupFile>
+    <StartupFile>Logica Basica\Declaracao_de_variaveis.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,10 +22,10 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="CursoPython\Declaracao_de_variaveis.py" />
+    <Compile Include="Logica Basica\Declaracao_de_variaveis.py" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="CursoPython\" />
+    <Folder Include="Logica Basica\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
